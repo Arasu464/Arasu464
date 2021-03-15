@@ -8,7 +8,8 @@ and extracting insghts from them. I also work in tools like Power BI, Tableau to
 Skills: SQL / Python / R / HTML /
 
 - 🔭 I’m currently working on Retail Analysis 
-- 🌱 I’m currently learning Qlik Sense | Financial Analysis | 
+- 🌱 I’m currently learning Qlik Sense | Financial Analysis
+-  👯 I’m looking to collaborate on Data Science Projects 
 - 📫 How to reach me: paravaikkarasu464@gmail.com 
 - ⚡ Fun fact: Live and Let Others Live 
 
