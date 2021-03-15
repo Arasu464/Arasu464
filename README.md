@@ -13,7 +13,6 @@ Skills: SQL / Python / R / HTML /
 - 📫 How to reach me: paravaikkarasu464@gmail.com 
 - ⚡ Fun fact: Live and Let Others Live 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arasu464)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arasu464&show_icons=true)  
 
