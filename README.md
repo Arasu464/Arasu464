@@ -5,7 +5,7 @@
 I’m Paravai from New Zealand, and I do analysis and forecasting on data. I really enjoy programming languages like SQL,Python and R. I am passionate about data 
 and extracting insghts from them. I also work in tools like Power BI, Tableau to give the best form of charts and reports to the stakeholders.
 
-Skills: SQL / Python / R / HTML /
+Skills: SQL / Python / R / HTML
 
 - 🔭 I’m currently working on Retail Analysis 
 - 🌱 I’m currently learning Qlik Sense | Financial Analysis
