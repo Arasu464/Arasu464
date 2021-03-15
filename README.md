@@ -1,6 +1,6 @@
 ### Hi there 👋, Paravai Arasu
 #### Data Analysis and Data Visualization
-![Data Analysis and Data Visualization] (https://content.techgig.com/thumb/msid-74489372,width-860,resizemode-4/5-Reasons-why-hackathons-are-ideal-to-hire-data-scientists.jpg?60122)
+![Data Analysis and Data Visualization] (https://content.techgig.com/thumb/msid-74489372,width-860,resizemode-4/5-Reasons-why-hackathons-are-ideal-to-hire-data-scientists.jpg)
 
 I’m Paravai from New Zealand, and I do analysis and forecasting on data. I really enjoy programming languages like SQL,Python and R. I am passionate about data 
 and extracting insghts from them. I also work in tools like Power BI, Tableau to give the best form of charts and reports to the stakeholders.
